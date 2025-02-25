@@ -1,5 +1,5 @@
-golang:1.22
-node:18
-alpine:3.14
+--platform=linux/amd64 golang:1.22
+--platform=linux/amd64 node:18
+--platform=linux/amd64 alpine:3.14
 
- --platform=linux/amd64
+ 
