@@ -2,4 +2,5 @@
 --platform=linux/amd64 node:18
 --platform=linux/amd64 alpine:3.14
 
- 
+--platform=linux/amd64 secretflow/kuscia-ci:20250314
+--platform=linux/arm64 secretflow/kuscia-ci:20250314
