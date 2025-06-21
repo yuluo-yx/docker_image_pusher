@@ -7,3 +7,4 @@
 --platform=linux/arm64 secretflow/kuscia-ci:20250314
 
 --platform=linux/amd64 vllm/vllm-openai:v0.7.2
+--platform=linux/arm64 vllm/vllm-openai:v0.7.2
