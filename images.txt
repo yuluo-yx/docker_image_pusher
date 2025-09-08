@@ -1,12 +1,1 @@
---platform=linux/amd64 golang:1.22
---platform=linux/amd64 golang:1.24
---platform=linux/amd64 node:18
---platform=linux/amd64 alpine:3.14
-
---platform=linux/amd64 secretflow/kuscia-ci:20250314
---platform=linux/arm64 secretflow/kuscia-ci:20250314
-
---platform=linux/amd64 vllm/vllm-openai:v0.7.2
---platform=linux/arm64 vllm/vllm-openai:v0.7.2
-
---platform=linux/arm64 busybox@sha256:ab33eacc8251e3807b85bb6dba570e4698c3998eca6f0fc2ccb60575a563ea74:
+--platform=linux/arm64 busybox@1.37
