@@ -1,1 +1,2 @@
---platform=linux/amd64 kindest/node:v1.34.0
+--platform=linux/amd64 nginx:1.28.0
+--platform=linux/arm64 nginx:1.28.0
