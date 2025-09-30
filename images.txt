@@ -1,1 +1,1 @@
---platform=linux/arm64 kindest/node:v1.34.0
+--platform=linux/amd64 kindest/node:v1.34.0
