@@ -1,2 +1,1 @@
---platform=linux/amd64 ghcr.io/open-webui/pipelines:main
---platform=linux/arm64 ghcr.io/open-webui/pipelines:main
+--platform=linux/arm64 ghcr.io/vllm-project/semantic-router/llm-katan:latest
