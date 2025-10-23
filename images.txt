@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/vllm-project/semantic-router/llm-katan:latest
+--platform=linux/arm64 kindest/node:v1.32.0
