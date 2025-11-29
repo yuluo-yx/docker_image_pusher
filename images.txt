@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/etcd:latest
+--platform=linux/arm64 quay.io/coreos/etcd:latest
