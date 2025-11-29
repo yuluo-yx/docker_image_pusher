@@ -1,1 +1,1 @@
---platform=linux/arm64 kindest/node:v1.32.0
+--platform=linux/arm64 bitnami/etcd:latest
