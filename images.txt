@@ -1,1 +1,1 @@
---platform=linux/arm64 moby/buildkit:buildx-stable-1
+--platform=linux/amd64 alpine:3.20
