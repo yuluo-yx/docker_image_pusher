@@ -1,1 +1,1 @@
---platform=linux/arm64 rancher/k3s:v1.35.4-k3s1
+--platform=linux/arm64 alpine:3.20
