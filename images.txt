@@ -1,1 +1,1 @@
---platform=linux/arm64 mongodb/mongodb-community-server:latest
+--platform=linux/arm64 nacos/nacos-server:latest
